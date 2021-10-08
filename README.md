@@ -4,3 +4,7 @@
 ### EE6402 Realtime DSP 
 ### EE7403 Image processing & pattern recognition
 ### EE6227 Genetic Algorithm & Machine Learning
+### EE6222 MACHINE VISION  
+### EE6101 DIGITAL COMMUNICATION SYSTEMS   
+### EE7207 NEURAL & FUZZY SYSTEMS  
+### EE6427 VIDEO SIGNAL PROCESSING  
