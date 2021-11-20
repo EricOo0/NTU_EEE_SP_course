@@ -1,0 +1,717 @@
+
+TMN (H.263) coder version 2.0, Copyright (C) 1995, 1996 Telenor R&D, Norway
+Encoding format: QCIF (176x144)
+Encoding frame rate  : 15.00
+Reference frame rate : 30.00
+Orig. seq. frame rate: 15.00
+
+Reading image no: 0
+Finished INTRA
+SNR_Y  : 33.11
+SNR_Cb : 37.30
+SNR_Cr : 38.78
+--------------
+# intra   : 99
+# inter   : 0
+# inter4v : 0
+--------------
+Coeff_Y: 66743
+Coeff_C: 3112
+Vectors: 0
+CBPY   : 262
+MCBPC  : 213
+MODB   : 0
+CBPB   : 0
+COD    : 0
+DQUANT : 0
+header : 54
+==============
+Total  : 70384
+
+Reading image no: 1
+Coding P frame 1... done
+Results for P-frame:
+SNR_Y  : 31.49
+SNR_Cb : 37.09
+SNR_Cr : 38.70
+--------------
+# intra   : 0
+# inter   : 24
+# inter4v : 0
+--------------
+Coeff_Y: 567
+Coeff_C: 0
+Vectors: 48
+CBPY   : 97
+MCBPC  : 24
+MODB   : 0
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 53
+==============
+Total  : 888
+
+Reading image no: 2
+Reading image no: 3
+Chose PB - bsad 35886, psad 42002
+Coding PB frames 2 and 3... done
+Results for B-frame:
+SNR_Y  : 31.47
+SNR_Cb : 37.21
+SNR_Cr : 38.72
+--------------
+Results for P-frame:
+SNR_Y  : 31.52
+SNR_Cb : 37.19
+SNR_Cr : 38.51
+--------------
+# intra   : 0
+# inter   : 26
+# inter4v : 0
+--------------
+Coeff_Y: 689
+Coeff_C: 0
+Vectors: 52
+CBPY   : 108
+MCBPC  : 26
+MODB   : 26
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 56
+==============
+Total  : 1056
+
+Reading image no: 4
+Reading image no: 5
+Chose PB - bsad 35655, psad 41130
+Coding PB frames 4 and 5... done
+Results for B-frame:
+SNR_Y  : 31.40
+SNR_Cb : 37.12
+SNR_Cr : 38.68
+--------------
+Results for P-frame:
+SNR_Y  : 31.39
+SNR_Cb : 37.09
+SNR_Cr : 38.55
+--------------
+# intra   : 0
+# inter   : 27
+# inter4v : 0
+--------------
+Coeff_Y: 808
+Coeff_C: 0
+Vectors: 54
+CBPY   : 110
+MCBPC  : 27
+MODB   : 27
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 59
+==============
+Total  : 1184
+
+Reading image no: 6
+Reading image no: 7
+Chose PB - bsad 35681, psad 43128
+Coding PB frames 6 and 7... done
+Results for B-frame:
+SNR_Y  : 31.30
+SNR_Cb : 37.16
+SNR_Cr : 38.60
+--------------
+Results for P-frame:
+SNR_Y  : 31.15
+SNR_Cb : 37.16
+SNR_Cr : 38.56
+--------------
+# intra   : 0
+# inter   : 30
+# inter4v : 0
+--------------
+Coeff_Y: 1377
+Coeff_C: 0
+Vectors: 68
+CBPY   : 125
+MCBPC  : 30
+MODB   : 31
+CBPB   : 6
+COD    : 99
+DQUANT : 0
+header : 56
+==============
+Total  : 1792
+
+Reading image no: 8
+Reading image no: 9
+Chose PB - bsad 37248, psad 45129
+Coding PB frames 8 and 9... done
+Results for B-frame:
+SNR_Y  : 30.77
+SNR_Cb : 36.88
+SNR_Cr : 38.67
+--------------
+Results for P-frame:
+SNR_Y  : 30.68
+SNR_Cb : 36.87
+SNR_Cr : 38.71
+--------------
+# intra   : 0
+# inter   : 38
+# inter4v : 0
+--------------
+Coeff_Y: 2859
+Coeff_C: 0
+Vectors: 76
+CBPY   : 159
+MCBPC  : 38
+MODB   : 38
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 59
+==============
+Total  : 3328
+
+Reading image no: 10
+Reading image no: 11
+Chose PB - bsad 36327, psad 44663
+Coding PB frames 10 and 11... done
+Results for B-frame:
+SNR_Y  : 30.61
+SNR_Cb : 36.80
+SNR_Cr : 38.64
+--------------
+Results for P-frame:
+SNR_Y  : 30.42
+SNR_Cb : 36.82
+SNR_Cr : 38.54
+--------------
+# intra   : 0
+# inter   : 45
+# inter4v : 0
+--------------
+Coeff_Y: 4526
+Coeff_C: 13
+Vectors: 92
+CBPY   : 188
+MCBPC  : 48
+MODB   : 45
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 61
+==============
+Total  : 5072
+
+Reading image no: 12
+Reading image no: 13
+Chose PB - bsad 36227, psad 44030
+Coding PB frames 12 and 13... done
+Results for B-frame:
+SNR_Y  : 30.31
+SNR_Cb : 36.73
+SNR_Cr : 38.48
+--------------
+Results for P-frame:
+SNR_Y  : 30.36
+SNR_Cb : 36.85
+SNR_Cr : 38.62
+--------------
+# intra   : 0
+# inter   : 45
+# inter4v : 0
+--------------
+Coeff_Y: 4671
+Coeff_C: 38
+Vectors: 90
+CBPY   : 189
+MCBPC  : 57
+MODB   : 45
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 59
+==============
+Total  : 5248
+
+Reading image no: 14
+Reading image no: 15
+Chose PB - bsad 41684, psad 48954
+Coding PB frames 14 and 15... done
+Results for B-frame:
+SNR_Y  : 30.15
+SNR_Cb : 36.79
+SNR_Cr : 38.49
+--------------
+Results for P-frame:
+SNR_Y  : 30.20
+SNR_Cb : 36.80
+SNR_Cr : 38.56
+--------------
+# intra   : 0
+# inter   : 50
+# inter4v : 2
+--------------
+Coeff_Y: 4912
+Coeff_C: 9
+Vectors: 148
+CBPY   : 217
+MCBPC  : 59
+MODB   : 54
+CBPB   : 12
+COD    : 99
+DQUANT : 0
+header : 58
+==============
+Total  : 5568
+
+Reading image no: 16
+Reading image no: 17
+Chose PB - bsad 68317, psad 79186
+Coding PB frames 16 and 17... done
+Results for B-frame:
+SNR_Y  : 29.45
+SNR_Cb : 36.77
+SNR_Cr : 38.36
+--------------
+Results for P-frame:
+SNR_Y  : 30.10
+SNR_Cb : 36.74
+SNR_Cr : 38.40
+--------------
+# intra   : 1
+# inter   : 45
+# inter4v : 5
+--------------
+Coeff_Y: 8587
+Coeff_C: 43
+Vectors: 259
+CBPY   : 218
+MCBPC  : 74
+MODB   : 62
+CBPB   : 66
+COD    : 99
+DQUANT : 0
+header : 56
+==============
+Total  : 9464
+
+Reading image no: 18
+Reading image no: 19
+Chose PP  - bsad 108822, psad 105174
+Coding P frame 18... done
+Results for P-frame:
+SNR_Y  : 30.09
+SNR_Cb : 36.72
+SNR_Cr : 38.53
+--------------
+# intra   : 1
+# inter   : 46
+# inter4v : 8
+--------------
+Coeff_Y: 7826
+Coeff_C: 70
+Vectors: 324
+CBPY   : 227
+MCBPC  : 97
+MODB   : 0
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 53
+==============
+Total  : 8696
+
+Reading image no: 19
+Coding P frame 19... done
+Results for P-frame:
+SNR_Y  : 29.86
+SNR_Cb : 36.70
+SNR_Cr : 38.21
+--------------
+# intra   : 0
+# inter   : 42
+# inter4v : 11
+--------------
+Coeff_Y: 7981
+Coeff_C: 10
+Vectors: 408
+CBPY   : 218
+MCBPC  : 80
+MODB   : 0
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 52
+==============
+Total  : 8848
+
+Reading image no: 20
+Reading image no: 21
+Chose PB - bsad 95515, psad 104139
+Coding PB frames 20 and 21... done
+Results for B-frame:
+SNR_Y  : 28.62
+SNR_Cb : 36.56
+SNR_Cr : 38.21
+--------------
+Results for P-frame:
+SNR_Y  : 29.81
+SNR_Cb : 36.54
+SNR_Cr : 38.12
+--------------
+# intra   : 0
+# inter   : 42
+# inter4v : 12
+--------------
+Coeff_Y: 12959
+Coeff_C: 50
+Vectors: 531
+CBPY   : 228
+MCBPC  : 96
+MODB   : 77
+CBPB   : 126
+COD    : 99
+DQUANT : 0
+header : 58
+==============
+Total  : 14224
+
+Reading image no: 22
+Reading image no: 23
+Chose PB - bsad 59628, psad 76636
+Coding PB frames 22 and 23... done
+Results for B-frame:
+SNR_Y  : 29.63
+SNR_Cb : 36.59
+SNR_Cr : 38.01
+--------------
+Results for P-frame:
+SNR_Y  : 29.85
+SNR_Cb : 36.48
+SNR_Cr : 37.99
+--------------
+# intra   : 0
+# inter   : 49
+# inter4v : 5
+--------------
+Coeff_Y: 9450
+Coeff_C: 29
+Vectors: 233
+CBPY   : 226
+MCBPC  : 78
+MODB   : 61
+CBPB   : 30
+COD    : 99
+DQUANT : 0
+header : 58
+==============
+Total  : 10264
+
+Reading image no: 24
+Reading image no: 25
+Chose PB - bsad 43392, psad 57374
+Coding PB frames 24 and 25... done
+Results for B-frame:
+SNR_Y  : 29.58
+SNR_Cb : 36.42
+SNR_Cr : 38.03
+--------------
+Results for P-frame:
+SNR_Y  : 29.98
+SNR_Cb : 36.46
+SNR_Cr : 38.14
+--------------
+# intra   : 0
+# inter   : 49
+# inter4v : 3
+--------------
+Coeff_Y: 5483
+Coeff_C: 5
+Vectors: 170
+CBPY   : 227
+MCBPC  : 62
+MODB   : 56
+CBPB   : 12
+COD    : 99
+DQUANT : 0
+header : 62
+==============
+Total  : 6176
+
+Reading image no: 26
+Reading image no: 27
+Chose PP  - bsad 90340, psad 87223
+Coding P frame 26... done
+Results for P-frame:
+SNR_Y  : 30.07
+SNR_Cb : 36.57
+SNR_Cr : 38.26
+--------------
+# intra   : 0
+# inter   : 46
+# inter4v : 6
+--------------
+Coeff_Y: 5414
+Coeff_C: 7
+Vectors: 237
+CBPY   : 220
+MCBPC  : 68
+MODB   : 0
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 51
+==============
+Total  : 6096
+
+Reading image no: 27
+Coding P frame 27... done
+Results for P-frame:
+SNR_Y  : 30.14
+SNR_Cb : 36.61
+SNR_Cr : 38.39
+--------------
+# intra   : 0
+# inter   : 41
+# inter4v : 7
+--------------
+Coeff_Y: 5567
+Coeff_C: 5
+Vectors: 285
+CBPY   : 209
+MCBPC  : 66
+MODB   : 0
+CBPB   : 0
+COD    : 99
+DQUANT : 0
+header : 57
+==============
+Total  : 6288
+
+Reading image no: 28
+Reading image no: 29
+Chose PB - bsad 65701, psad 69074
+Coding PB frames 28 and 29... done
+Results for B-frame:
+SNR_Y  : 29.19
+SNR_Cb : 36.57
+SNR_Cr : 38.46
+--------------
+Results for P-frame:
+SNR_Y  : 30.02
+SNR_Cb : 36.61
+SNR_Cr : 38.42
+--------------
+# intra   : 0
+# inter   : 44
+# inter4v : 8
+--------------
+Coeff_Y: 7487
+Coeff_C: 19
+Vectors: 328
+CBPY   : 220
+MCBPC  : 80
+MODB   : 64
+CBPB   : 60
+COD    : 99
+DQUANT : 0
+header : 59
+==============
+Total  : 8416
+
+Reading image no: 30
+Reading image no: 31
+Chose PB - bsad 45153, psad 63299
+Coding PB frames 30 and 31... done
+Results for B-frame:
+SNR_Y  : 29.61
+SNR_Cb : 36.73
+SNR_Cr : 38.46
+--------------
+Results for P-frame:
+SNR_Y  : 29.99
+SNR_Cb : 36.75
+SNR_Cr : 38.57
+--------------
+# intra   : 0
+# inter   : 52
+# inter4v : 2
+--------------
+Coeff_Y: 6771
+Coeff_C: 15
+Vectors: 168
+CBPY   : 232
+MCBPC  : 64
+MODB   : 59
+CBPB   : 18
+COD    : 99
+DQUANT : 0
+header : 62
+==============
+Total  : 7488
+
+Reading image no: 32
+Reading image no: 33
+Chose PB - bsad 42753, psad 53868
+Coding PB frames 32 and 33... done
+Results for B-frame:
+SNR_Y  : 29.94
+SNR_Cb : 36.79
+SNR_Cr : 38.54
+--------------
+Results for P-frame:
+SNR_Y  : 30.04
+SNR_Cb : 36.77
+SNR_Cr : 38.62
+--------------
+# intra   : 0
+# inter   : 50
+# inter4v : 3
+--------------
+Coeff_Y: 4688
+Coeff_C: 12
+Vectors: 180
+CBPY   : 232
+MCBPC  : 65
+MODB   : 56
+CBPB   : 18
+COD    : 99
+DQUANT : 0
+header : 58
+==============
+Total  : 5408
+
+Reading image no: 34
+Reading image no: 35
+Chose PB - bsad 50565, psad 68291
+Coding PB frames 34 and 35... done
+Results for B-frame:
+SNR_Y  : 29.70
+SNR_Cb : 36.83
+SNR_Cr : 38.56
+--------------
+Results for P-frame:
+SNR_Y  : 29.88
+SNR_Cb : 36.77
+SNR_Cr : 38.52
+--------------
+# intra   : 0
+# inter   : 47
+# inter4v : 9
+--------------
+Coeff_Y: 7368
+Coeff_C: 0
+Vectors: 276
+CBPY   : 236
+MCBPC  : 74
+MODB   : 64
+CBPB   : 48
+COD    : 99
+DQUANT : 0
+header : 59
+==============
+Total  : 8224
+
+Reading image no: 36
+Reading image no: 37
+Chose PB - bsad 62661, psad 77537
+Coding PB frames 36 and 37... done
+Results for B-frame:
+SNR_Y  : 29.11
+SNR_Cb : 36.71
+SNR_Cr : 38.51
+--------------
+Results for P-frame:
+SNR_Y  : 29.82
+SNR_Cb : 36.76
+SNR_Cr : 38.51
+--------------
+# intra   : 0
+# inter   : 38
+# inter4v : 14
+--------------
+Coeff_Y: 8298
+Coeff_C: 17
+Vectors: 413
+CBPY   : 220
+MCBPC  : 88
+MODB   : 68
+CBPB   : 84
+COD    : 99
+DQUANT : 0
+header : 57
+==============
+Total  : 9344
+
+Reading image no: 38
+Reading image no: 39
+Chose PB - bsad 72734, psad 79520
+Coding PB frames 38 and 39... done
+Results for B-frame:
+SNR_Y  : 29.26
+SNR_Cb : 36.72
+SNR_Cr : 38.39
+--------------
+Results for P-frame:
+SNR_Y  : 29.97
+SNR_Cb : 36.67
+SNR_Cr : 38.43
+--------------
+# intra   : 0
+# inter   : 43
+# inter4v : 11
+--------------
+Coeff_Y: 9578
+Coeff_C: 22
+Vectors: 497
+CBPY   : 233
+MCBPC  : 90
+MODB   : 65
+CBPB   : 60
+COD    : 99
+DQUANT : 0
+header : 60
+==============
+Total  : 10704
+
+
+==== TOTAL ====
+for 39 images of \dev\seq\capture.qcif
+--------------
+SNR for 17 B-frames:
+SNR_Y  : 30.01
+SNR_Cb : 36.79
+SNR_Cr : 38.46
+--------------
+SNR for 22 P-frames:
+SNR_Y  : 30.31
+SNR_Cb : 36.77
+SNR_Cr : 38.45
+--------------
+# intra   : 0
+# inter   : 41
+# inter4v : 4
+--------------
+Coeff_Y: 3278
+Coeff_C: 9
+Vectors: 126
+CBPY   : 111
+MCBPC  : 35
+MODB   : 23
+CBPB   : 13
+COD    : 55
+DQUANT : 0
+header : 32
+==============
+Total  : 3686
+
+Mean quantizer   : 10.00
+Encoded frames   :  40 ( 39)
+Mean frame rate  : 15.00 Hz
+Obtained bit rate: 80.31 (55.30) kbit/sec
+============================================
