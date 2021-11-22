@@ -48,3 +48,14 @@ W = A*B';
 R = U*V';
 thi = acos((trace(R)-1)/2);
 rad2deg(thi)
+
+% quaternion
+K=[[W(1,1)+W(2,2)+W(3,3),W(3,2)-W(2,3),W(1,3)-W(3,1),W(2,1)-W(1,2)];
+    [W(3,2)-W(2,3),W(1,1)-W(2,2)-W(3,3),W(1,2)+W(2,1),W(3,1)+W(1,3)];
+    [W(1,3)-W(3,1),W(1,2)+W(2,1),-W(1,1)+W(2,2)-W(3,3),W(2,3)+W(3,2)];
+    [W(2,1)-W(1,2),W(3,1)+W(1,3),W(2,3)+W(3,2),-W(1,1)-W(2,2)+W(3,3)]];
+[m,v]=eig(K);
+ev=diag(v);
+[absv,abse]=sort(ev,'descend');
+eigen_ve=m(:,abse);
+thi_quternion=rad2deg(2*acos(eigen_ve(1,1)))
